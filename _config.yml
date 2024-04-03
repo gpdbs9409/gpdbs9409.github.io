@@ -15,11 +15,11 @@ title_separator          : "-"
 subtitle                 : "안녕하세용가리"
 name                     : "KIM hyeyun"
 description              : "Recording my experiences about computer science"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      :"https://gpdbs9409.github.io/"
 baseurl                  : "/test"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "https://github.com/gpdbs9409/gpdbs9409.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/images/profile.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/profile.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Custom Title" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -92,13 +92,13 @@ analytics:
 # Site Author
 author:
   name             : "KIM hyeyun"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I can end this suffering_나는 지금 이 고통을 끝낸다 . 스스로를 구원하기"
+  avatar           : "/assets/images/profile.jpg"
+  bio              : "I can end this suffering"
   location         : "Seoul,Korea"
   links:
-    - label: "Your Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://your-site.com"
+    - label: "Email"
+      icon: "gpdbs9409@naver.com"
+      url: "instagram"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
@@ -107,7 +107,7 @@ author:
       url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/gpdbsapab"
 
 
 # Site Footer
