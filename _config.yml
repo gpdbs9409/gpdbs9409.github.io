@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 theme                    : "minimal-mistakes-jekyll"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"A
 
 # Site Settings
 locale                   : "ko-KR"
@@ -15,7 +15,7 @@ title_separator          : "-"
 subtitle                 : "안녕하세용가리"
 name                     : "KIM hyeyun"
 description              : "Recording my experiences about computer science"
-url                      :"https://gpdbs9409.github.io/"
+url                      : "https://gpdbs9409.github.io/"
 baseurl                  : "/test"
 repository               : "https://github.com/gpdbs9409/gpdbs9409.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -24,7 +24,7 @@ masthead_title           : "Custom Title" # overrides the website title displaye
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               :  "disqus", # "discourse", "facebook", "staticman", "utterances", "giscus", "custom"
+  provider               : "disqus" #"discourse", "facebook", "staticman", "utterances", "giscus", "custom"
   disqus:
     shortname            : "hynote"
   discourse:
