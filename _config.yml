@@ -93,7 +93,7 @@ analytics:
 author:
   name             : "KIM hyeyun"
   avatar           : "/assets/images/profile.jpg"
-  bio              : "I can end this suffering"
+  bio              : "너무 멀리보지 말고 앞에 있는거 먼저 신경쓰기"
   location         : "Seoul,Korea"
   links:
     - label: "Email"
@@ -190,7 +190,8 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /:year/:month/:day/:title/
+
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
