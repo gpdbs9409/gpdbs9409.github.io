@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "e9a04e0b56856f43",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0327bb7db7b2520",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2027ee73a2d2ddff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-09-18-first.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ca5d30f901cfb48d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c59dbeaaac61af7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "047f811ab29504c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "608c307954adb2fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d21e7e8adf7b6439",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "41dca675e3a9c195",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b664a52a3f795bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2dafc27648294ed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2024-09-18-first.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e560e7072ff9614d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2024-09-18-first.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2fade5f3b82c9bc1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a18c50f225203505",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2024-09-18-first.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "2027ee73a2d2ddff",
+  "lastOpenFiles": [
+    "_posts/2024-07-01-first.md",
+    "_posts/2024-05-02-sixth.md",
+    "_posts/2024-05-02-third.md",
+    "_posts/2024-09-18-second.md",
+    "_posts/2024-09-18-first.md",
+    "assets/images/깃헙데스크탑.png",
+    "_posts/Pasted image 20240701011312.png",
+    "_site/assets/images/깃헙데스크탑.png",
+    "_site/2024/09/18/third/index.html",
+    "_site/2024/09/18/third",
+    "_site/2024/09/18/second/index.html",
+    "_site/2024/09/18/second",
+    "_site/page6/index.html",
+    "_site/page6",
+    "_posts/2024-09-18-third.md",
+    "_site/2024/09/18/first/index.html",
+    "_site/2024/09/18/first",
+    "_site/2024/09/18",
+    "_site/2024/09",
+    "_posts/무제 파일.md",
+    "_posts/2020-10-01-releasing-not-pure-poole-v0-1-0.md",
+    "_posts/2020-09-29-welcome-to-not-pure-poole.md",
+    "assets/images/Pasted image 20240701011312.png",
+    "_posts/2023-12-02-third.md",
+    "_posts/2023-12-02-second.md",
+    "_posts/2023-12-02-first.md"
+  ]
+}
