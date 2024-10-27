@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-05-02-fifth.md",
+                "file": "_posts/2023-12-02-second.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-05-02-fifth"
+              "title": "2023-12-02-second"
             }
           }
         ],
@@ -191,8 +191,31 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "047f811ab29504c3",
+  "active": "633d4712f5592da9",
   "lastOpenFiles": [
+    "_site/categories/web-programming/index.html",
+    "_site/categories/web-programming",
+    "_site/categories/unix-linux/index.html",
+    "_site/categories/unix-linux",
+    "_site/categories/python/index.html",
+    "_site/categories/python",
+    "_site/categories/githubio/index.html",
+    "_site/categories/githubio",
+    "_site/categories/flutter/index.html",
+    "_site/categories/flutter",
+    "_site/categories/ect/index.html",
+    "_site/test/assets/images/unsplash-image-9.jpg",
+    "_site/test/assets/images/unsplash-image-8.jpg",
+    "_site/test/assets/images/unsplash-image-7.jpg",
+    "_site/test/assets/images/unsplash-image-6.jpg",
+    "_site/test/assets/images/unsplash-image-5.jpg",
+    "_site/test/assets/images/unsplash-image-4.jpg",
+    "_site/test/assets/images/unsplash-image-3.jpg",
+    "_site/test/assets/images/unsplash-image-10.jpg",
+    "_site/test/assets/images/unsplash-image-2.jpg",
+    "_site/test/assets/images/unsplash-image-11.jpg",
+    "_site/2024-09-18.md",
+    "_posts/2024-05-02-fifth.md",
     "_posts/2024-03-08.md",
     "_posts/2024-05-02-third.md",
     "_posts/2023-12-11-fifth.md",
@@ -202,35 +225,19 @@
     "_posts/2023-12-02-third.md",
     "_posts/2023-12-11-third.md",
     "_posts/2024-10-26-first.md",
-    "_posts/Ect",
     "_posts/2023-12-11-fourth.md",
     "_posts/2023-12-11-second.md",
-    "_posts/Flutter",
     "_posts/web programming project/2023-12-05-second.md",
-    "_posts/리눅스,유닉스",
     "_posts/2024-05-02-first.md",
-    "_posts/2024-05-02-fifth.md",
-    "_posts/Bigdata(자연어처리)",
     "_posts/2024-07-01-first.md",
     "_posts/2024-09-18-first.md",
     "_posts/2024-09-18-third.md",
-    "_posts/Githubio",
     "_posts/2024-09-18-second.md",
-    "_posts/인턴쉽",
     "_posts/무제 파일 1.md",
     "_posts/무제 파일.md",
     "_posts/web programming project/2023-12-05-first.md",
     "_posts/web programming project/2023-12-03-second.md",
     "_posts/web programming project/2023-12-03-first.md",
-    "_posts/web programming project/2023-12-07-first.md",
-    "_posts/2024-05-02-sixth.md",
-    "_site/2024/10/26/first/index.html",
-    "_site/2024/10/26/first",
-    "_site/2024/10/26",
-    "_site/2024/10",
-    "assets/images/깃헙데스크탑.png",
-    "_posts/Pasted image 20240701011312.png",
-    "_site/assets/images/깃헙데스크탑.png",
-    "assets/images/Pasted image 20240701011312.png"
+    "_posts/web programming project/2023-12-07-first.md"
   ]
 }
