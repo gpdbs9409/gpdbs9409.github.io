@@ -1,4 +1,11 @@
-- title: Blog
-  url: /
-- title: About
-  url: /about/
+docs:
+  - title: "Home"
+    url: "/"
+  - title: "Blog"
+    url: "/blog/"
+  - title: "About"
+    url: "/about/"
+  - title: "Categories"
+    url: "/categories/"
+  - title: "Contact"
+    url: "/contact/"

@@ -1,6 +1,8 @@
 ---
 title: SPARKS
 layout: post
+categories:
+  - BigData
 ---
 자연어처리 : word2vec
 자연어가 뭘까 ? 말 그대로 자연스러운 언어 . 생활 속에서 사용하는 언어이다 . 내가 지금 작성하고 있는 것도 자연어다 . . 그렇다면 , 처리는 뭘까 ? 영어로 하는 게 낫겠다 . process . 
