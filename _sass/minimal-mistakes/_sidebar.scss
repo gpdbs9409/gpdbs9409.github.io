@@ -351,3 +351,28 @@
   }
 }
 
+.sidebar-left {
+  background-color: #f8f9fa; /* 배경 색상 */
+  padding: 20px; /* 내부 여백 */
+  border-right: 1px solid #ddd; /* 오른쪽 구분선 */
+  list-style: none; /* 리스트 앞의 동그라미 제거 */
+  
+  ul {
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    margin-bottom: 10px; /* 리스트 간 간격 */
+  }
+
+  a {
+    color: #333; /* 링크 색상 */
+    text-decoration: none; /* 밑줄 제거 */
+    transition: color 0.2s; /* 마우스 오버 시 색상 변화 */
+    
+    &:hover {
+      color: #007acc; /* 마우스 오버 시 색상 */
+    }
+  }
+}

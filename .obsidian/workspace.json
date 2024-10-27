@@ -8,105 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2027ee73a2d2ddff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-10-26-first.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-10-26-first"
-            }
-          },
-          {
-            "id": "e63be984989a1f20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/web programming project/2023-12-03-first.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2023-12-03-first"
-            }
-          },
-          {
-            "id": "dd3f2a21534ea10a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/web programming project/2023-12-03-second.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2023-12-03-second"
-            }
-          },
-          {
-            "id": "25d7a543a823ae52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/web programming project/2023-12-03-first.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2023-12-03-first"
-            }
-          },
-          {
-            "id": "8e31204a5078c1dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/web programming project/2023-12-03-second.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2023-12-03-second"
-            }
-          },
-          {
-            "id": "d1faed52eb8644a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/web programming project/2023-12-05-first.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2023-12-05-first"
-            }
-          },
-          {
             "id": "80f75d3941e7f8f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-12-05-third.md",
+                "file": "_posts/2023-12-02-second.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2023-12-05-third"
+              "title": "2023-12-02-second"
+            }
+          },
+          {
+            "id": "92f309828d99e8bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-03-08.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-03-08"
+            }
+          },
+          {
+            "id": "633d4712f5592da9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-05-02-fifth.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-05-02-fifth"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 213.5
   },
   "right": {
     "id": "41dca675e3a9c195",
@@ -247,47 +191,46 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "80f75d3941e7f8f2",
+  "active": "047f811ab29504c3",
   "lastOpenFiles": [
-    "_posts/2023-12-05-second.md",
-    "_posts/2023-12-02-third.md",
+    "_posts/2024-03-08.md",
+    "_posts/2024-05-02-third.md",
+    "_posts/2023-12-11-fifth.md",
+    "_posts/2023-12-05-third.md",
     "_posts/2023-12-02-second.md",
     "_posts/2023-12-02-first.md",
-    "_posts/web programming project/2023-12-07-first.md",
+    "_posts/2023-12-02-third.md",
+    "_posts/2023-12-11-third.md",
+    "_posts/2024-10-26-first.md",
+    "_posts/Ect",
+    "_posts/2023-12-11-fourth.md",
+    "_posts/2023-12-11-second.md",
+    "_posts/Flutter",
+    "_posts/web programming project/2023-12-05-second.md",
+    "_posts/리눅스,유닉스",
+    "_posts/2024-05-02-first.md",
+    "_posts/2024-05-02-fifth.md",
+    "_posts/Bigdata(자연어처리)",
+    "_posts/2024-07-01-first.md",
+    "_posts/2024-09-18-first.md",
+    "_posts/2024-09-18-third.md",
+    "_posts/Githubio",
+    "_posts/2024-09-18-second.md",
+    "_posts/인턴쉽",
+    "_posts/무제 파일 1.md",
+    "_posts/무제 파일.md",
     "_posts/web programming project/2023-12-05-first.md",
     "_posts/web programming project/2023-12-03-second.md",
     "_posts/web programming project/2023-12-03-first.md",
-    "_posts/2024-10-26-first.md",
-    "_posts/2024-09-18-third.md",
-    "_posts/2024-09-18-second.md",
-    "_posts/2024-09-18-first.md",
-    "_posts/2024-07-01-first.md",
-    "_posts/2024-05-02-third.md",
-    "_posts/2024-05-02-first.md",
+    "_posts/web programming project/2023-12-07-first.md",
     "_posts/2024-05-02-sixth.md",
-    "_posts/2024-05-02-forth.md",
-    "_posts/2024-05-02-second.md",
-    "_posts/2024-05-02-fifth.md",
-    "_posts/2024-03-08-Word Embedding.md",
-    "_posts/2023-12-11-third.md",
-    "_posts/2023-12-11-second.md",
-    "_posts/2023-12-11-fourth.md",
-    "_posts/2023-12-11-fifth.md",
-    "_posts/2023-12-05-third.md",
     "_site/2024/10/26/first/index.html",
     "_site/2024/10/26/first",
     "_site/2024/10/26",
     "_site/2024/10",
-    "_site/2024-09-18.md",
-    "_posts/web programming project",
     "assets/images/깃헙데스크탑.png",
     "_posts/Pasted image 20240701011312.png",
     "_site/assets/images/깃헙데스크탑.png",
-    "_site/2024/09/18/third/index.html",
-    "_site/2024/09/18/third",
-    "_site/2024/09/18/second/index.html",
-    "_site/2024/09/18/second",
-    "_site/page6/index.html",
     "assets/images/Pasted image 20240701011312.png"
   ]
 }
