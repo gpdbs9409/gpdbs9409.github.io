@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-10-27-first.md",
+                "file": "_posts/2024-10-26-first.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-27-first"
+              "title": "2024-10-26-first"
             }
           }
         ],
@@ -193,9 +193,9 @@
   },
   "active": "633d4712f5592da9",
   "lastOpenFiles": [
-    "2024-10-26.md",
     "_posts/2024-10-27-first.md",
     "_posts/2024-10-26-first.md",
+    "2024-10-26.md",
     "_posts/2024-09-18-third.md",
     "_posts/2023-12-02-second.md",
     "_posts/2023-12-02-first.md",
